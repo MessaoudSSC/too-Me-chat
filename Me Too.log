@@ -1,0 +1,1160 @@
+Excelsior JET v11.0 Evaluation 64-bit (c) Excelsior 1997,2015
+Active Java SE Version 1.8.0_40 (profile 8040)
+************************  JET v11.0 EVALUATION **************************
+*  This program cannot be used in a business, commercial, government,  *
+*  or  institutional  environment  except  for  evaluation  purposes.  *
+************************************************************************
+Make project "D:\Zin\Java Project\Me Too.prj"
+Reading MyChatAppp/dist/MyChatAppp.jar ...  21 classes
+Reading MyChatAppp/dist/lib/mysql-connector-java-5.1.38-bin.jar ...  345 classes
+
+Total compilable classes within classpath entries: 366
+
+------------------------  Parsing Stage  ---------------------------------------
+
+   1/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/MyChatAppp.class
+   2/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/MySqlConnect.class
+   3/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignIn$1.class
+   4/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignIn$2.class
+   5/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignIn$3.class
+   6/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignIn$4.class
+   7/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignIn$5.class
+   8/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignIn.class
+   9/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignUp$1.class
+  10/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignUp$2.class
+  11/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignUp$3.class
+  12/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignUp.class
+  13/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/gui/MainScreen$1.class
+  14/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/gui/MainScreen$2.class
+  15/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/gui/MainScreen$3.class
+  16/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/gui/MainScreen$4.class
+  17/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/gui/MainScreen$5.class
+  18/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/gui/MainScreen.class
+  19/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/networking/MessageListner.class
+  20/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/networking/MessageTransmitter.class
+  21/366: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/networking/WritableGUI.class
+  22/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/FabricCommunicationException.class
+  23/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/FabricConnection.class
+  24/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/FabricStateResponse.class
+  25/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/HashShardMapping$ReverseShardIndexSorter.class
+  26/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/HashShardMapping.class
+  27/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/RangeShardMapping$RangeShardIndexSorter.class
+  28/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/RangeShardMapping.class
+  29/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/Response.class
+  30/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/Server.class
+  31/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ServerGroup.class
+  32/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ServerMode.class
+  33/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ServerRole.class
+  34/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ShardIndex.class
+  35/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ShardMapping.class
+  36/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ShardMappingFactory$1.class
+  37/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ShardMappingFactory.class
+  38/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ShardTable.class
+  39/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ShardingType.class
+  40/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/hibernate/FabricMultiTenantConnectionProvider.class
+  41/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/ErrorReportingExceptionInterceptor.class
+  42/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/FabricMySQLConnection.class
+  43/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/FabricMySQLConnectionProperties.class
+  44/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/FabricMySQLConnectionProxy.class
+  45/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/FabricMySQLDataSource.class
+  46/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/FabricMySQLDriver.class
+  47/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/JDBC4FabricMySQLConnection.class
+  48/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/JDBC4FabricMySQLConnectionProxy.class
+  49/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/proto/xmlrpc/AuthenticatedXmlRpcMethodCaller.class
+  50/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/proto/xmlrpc/DigestAuthentication.class
+  51/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/proto/xmlrpc/InternalXmlRpcMethodCaller.class
+  52/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/proto/xmlrpc/ResultSetParser.class
+  53/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/proto/xmlrpc/XmlRpcClient.class
+  54/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/proto/xmlrpc/XmlRpcMethodCaller.class
+  55/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/Client.class
+  56/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Array.class
+  57/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Data.class
+  58/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Fault.class
+  59/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Member.class
+  60/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/MethodCall.class
+  61/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/MethodResponse.class
+  62/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Param.class
+  63/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Params.class
+  64/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/ResponseParser.class
+  65/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Struct.class
+  66/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Value.class
+  67/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/exceptions/MySQLFabricException.class
+  68/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/AbandonedConnectionCleanupThread.class
+  69/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/AssertionFailedException.class
+  70/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/AuthenticationPlugin.class
+  71/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/BalanceStrategy.class
+  72/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/BestResponseTimeBalanceStrategy.class
+  73/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Blob.class
+  74/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/BlobFromLocator$LocatorInputStream.class
+  75/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/BlobFromLocator.class
+  76/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Buffer.class
+  77/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/BufferRow.class
+  78/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ByteArrayRow.class
+  79/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CacheAdapter.class
+  80/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CacheAdapterFactory.class
+  81/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CachedResultSetMetaData.class
+  82/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CallableStatement$CallableStatementParam.class
+  83/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CallableStatement$CallableStatementParamInfo.class
+  84/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CallableStatement.class
+  85/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CharsetMapping.class
+  86/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Clob.class
+  87/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Collation.class
+  88/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CommunicationsException.class
+  89/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CompressedInputStream.class
+  90/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Connection.class
+  91/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionFeatureNotAvailableException.class
+  92/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionGroup.class
+  93/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionGroupManager.class
+  94/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$1.class
+  95/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$10.class
+  96/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$11.class
+  97/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$12.class
+  98/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$2.class
+  99/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$3.class
+ 100/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$4.class
+ 101/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$5.class
+ 102/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$6.class
+ 103/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$7.class
+ 104/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$8.class
+ 105/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$9.class
+ 106/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$CompoundCacheKey.class
+ 107/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$ExceptionInterceptorChain.class
+ 108/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl.class
+ 109/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionLifecycleInterceptor.class
+ 110/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionProperties.class
+ 111/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$1.class
+ 112/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$BooleanConnectionProperty.class
+ 113/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$ConnectionProperty.class
+ 114/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$IntegerConnectionProperty.class
+ 115/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$LongConnectionProperty.class
+ 116/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$MemorySizeConnectionProperty.class
+ 117/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$StringConnectionProperty.class
+ 118/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$XmlMap.class
+ 119/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl.class
+ 120/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesTransform.class
+ 121/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Constants.class
+ 122/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$1.class
+ 123/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$10.class
+ 124/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$11.class
+ 125/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$2.class
+ 126/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$3.class
+ 127/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$4.class
+ 128/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$5.class
+ 129/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$6.class
+ 130/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$7.class
+ 131/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$8.class
+ 132/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$9.class
+ 133/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$ComparableWrapper.class
+ 134/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$IndexMetaDataKey.class
+ 135/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$IteratorWithCleanup.class
+ 136/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$LocalAndReferencedColumns.class
+ 137/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$ProcedureType.class
+ 138/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$ResultSetIterator.class
+ 139/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$SingleStringIterator.class
+ 140/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$TableMetaDataKey.class
+ 141/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$TableType.class
+ 142/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$TypeDescriptor.class
+ 143/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData.class
+ 144/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaDataUsingInfoSchema$JDBC4FunctionConstant.class
+ 145/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaDataUsingInfoSchema.class
+ 146/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DocsConnectionPropsHelper.class
+ 147/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Driver.class
+ 148/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/EscapeProcessor.class
+ 149/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/EscapeProcessorResult.class
+ 150/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/EscapeTokenizer.class
+ 151/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ExceptionInterceptor.class
+ 152/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ExportControlled$1.class
+ 153/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ExportControlled$StandardSSLSocketFactory.class
+ 154/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ExportControlled.class
+ 155/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Extension.class
+ 156/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/FailoverConnectionProxy$FailoverJdbcInterfaceProxy.class
+ 157/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/FailoverConnectionProxy.class
+ 158/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Field.class
+ 159/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/IterateBlock.class
+ 160/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC42CallableStatement.class
+ 161/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC42Helper.class
+ 162/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC42PreparedStatement.class
+ 163/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC42ResultSet.class
+ 164/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC42ServerPreparedStatement.class
+ 165/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC42UpdatableResultSet.class
+ 166/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4CallableStatement.class
+ 167/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4ClientInfoProvider.class
+ 168/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4ClientInfoProviderSP.class
+ 169/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4CommentClientInfoProvider.class
+ 170/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4Connection.class
+ 171/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4DatabaseMetaData.class
+ 172/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4DatabaseMetaDataUsingInfoSchema$1.class
+ 173/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4DatabaseMetaDataUsingInfoSchema.class
+ 174/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4LoadBalancedMySQLConnection.class
+ 175/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4MultiHostMySQLConnection.class
+ 176/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4MySQLConnection.class
+ 177/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4MysqlSQLXML$SimpleSaxToReader.class
+ 178/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4MysqlSQLXML.class
+ 179/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4NClob.class
+ 180/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4PreparedStatement.class
+ 181/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4PreparedStatementHelper.class
+ 182/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4ReplicationMySQLConnection.class
+ 183/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4ResultSet.class
+ 184/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4ServerPreparedStatement.class
+ 185/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4UpdatableResultSet.class
+ 186/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/LicenseConfiguration.class
+ 187/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/LoadBalanceExceptionChecker.class
+ 188/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/LoadBalancedAutoCommitInterceptor.class
+ 189/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/LoadBalancedConnection.class
+ 190/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/LoadBalancedConnectionProxy.class
+ 191/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/LoadBalancedMySQLConnection.class
+ 192/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Messages.class
+ 193/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MiniAdmin.class
+ 194/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MultiHostConnectionProxy$JdbcInterfaceProxy.class
+ 195/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MultiHostConnectionProxy.class
+ 196/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MultiHostMySQLConnection.class
+ 197/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MySQLConnection.class
+ 198/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MysqlCharset.class
+ 199/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MysqlDataTruncation.class
+ 200/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MysqlDefs.class
+ 201/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MysqlErrorNumbers.class
+ 202/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MysqlIO.class
+ 203/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MysqlParameterMetadata.class
+ 204/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MysqlSavepoint.class
+ 205/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NamedPipeSocketFactory$NamedPipeSocket.class
+ 206/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NamedPipeSocketFactory$RandomAccessFileInputStream.class
+ 207/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NamedPipeSocketFactory$RandomAccessFileOutputStream.class
+ 208/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NamedPipeSocketFactory.class
+ 209/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NdbLoadBalanceExceptionChecker.class
+ 210/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NetworkResources.class
+ 211/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NoSubInterceptorWrapper.class
+ 212/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NonRegisteringDriver$ConnectionPhantomReference.class
+ 213/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NonRegisteringDriver.class
+ 214/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NonRegisteringReplicationDriver.class
+ 215/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NotImplemented.class
+ 216/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NotUpdatable.class
+ 217/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/OperationNotSupportedException.class
+ 218/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/OutputStreamWatcher.class
+ 219/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PacketTooBigException.class
+ 220/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ParameterBindings.class
+ 221/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PerConnectionLRUFactory$PerConnectionLRU.class
+ 222/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PerConnectionLRUFactory.class
+ 223/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PerVmServerConfigCacheFactory$1.class
+ 224/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PerVmServerConfigCacheFactory.class
+ 225/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PingTarget.class
+ 226/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PreparedStatement$AppendingBatchVisitor.class
+ 227/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PreparedStatement$BatchParams.class
+ 228/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PreparedStatement$BatchVisitor.class
+ 229/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PreparedStatement$EmulatedPreparedStatementBindings.class
+ 230/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PreparedStatement$EndPoint.class
+ 231/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PreparedStatement$ParseInfo.class
+ 232/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PreparedStatement.class
+ 233/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ProfilerEventHandlerFactory.class
+ 234/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/RandomBalanceStrategy.class
+ 235/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ReflectiveStatementInterceptorAdapter.class
+ 236/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ReplicationConnection.class
+ 237/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ReplicationConnectionGroup.class
+ 238/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ReplicationConnectionGroupManager.class
+ 239/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ReplicationConnectionProxy.class
+ 240/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ReplicationDriver.class
+ 241/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ReplicationMySQLConnection.class
+ 242/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ResultSetImpl.class
+ 243/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ResultSetInternalMethods.class
+ 244/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ResultSetMetaData.class
+ 245/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ResultSetRow.class
+ 246/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/RowData.class
+ 247/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/RowDataCursor.class
+ 248/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/RowDataDynamic.class
+ 249/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/RowDataStatic.class
+ 250/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/SQLError.class
+ 251/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Security.class
+ 252/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/SequentialBalanceStrategy.class
+ 253/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ServerPreparedStatement$BatchedBindValues.class
+ 254/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ServerPreparedStatement$BindValue.class
+ 255/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ServerPreparedStatement.class
+ 256/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/SingleByteCharsetConverter.class
+ 257/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/SocketFactory.class
+ 258/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/SocketMetadata$Helper.class
+ 259/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/SocketMetadata.class
+ 260/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/SocksProxySocketFactory.class
+ 261/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StandardLoadBalanceExceptionChecker.class
+ 262/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StandardSocketFactory.class
+ 263/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Statement.class
+ 264/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StatementImpl$CancelTask$1.class
+ 265/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StatementImpl$CancelTask.class
+ 266/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StatementImpl.class
+ 267/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StatementInterceptor.class
+ 268/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StatementInterceptorV2.class
+ 269/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StreamingNotifiable.class
+ 270/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StringUtils$SearchMode.class
+ 271/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StringUtils.class
+ 272/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/TimeUtil.class
+ 273/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/UpdatableResultSet.class
+ 274/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Util$RandStructcture.class
+ 275/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Util.class
+ 276/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/V1toV2StatementInterceptorAdapter.class
+ 277/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/WatchableOutputStream.class
+ 278/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/WatchableWriter.class
+ 279/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Wrapper.class
+ 280/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/WriterWatcher.class
+ 281/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/authentication/MysqlClearPasswordPlugin.class
+ 282/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/authentication/MysqlNativePasswordPlugin.class
+ 283/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/authentication/MysqlOldPasswordPlugin.class
+ 284/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/authentication/Sha256PasswordPlugin.class
+ 285/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/DeadlockTimeoutRollbackMarker.class
+ 286/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLDataException.class
+ 287/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLIntegrityConstraintViolationException.class
+ 288/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLInvalidAuthorizationSpecException.class
+ 289/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLNonTransientConnectionException.class
+ 290/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLNonTransientException.class
+ 291/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLQueryInterruptedException.class
+ 292/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLStatementCancelledException.class
+ 293/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLSyntaxErrorException.class
+ 294/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLTimeoutException.class
+ 295/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLTransactionRollbackException.class
+ 296/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLTransientConnectionException.class
+ 297/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLTransientException.class
+ 298/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/CommunicationsException.class
+ 299/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLDataException.class
+ 300/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLIntegrityConstraintViolationException.class
+ 301/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLInvalidAuthorizationSpecException.class
+ 302/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientConnectionException.class
+ 303/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientException.class
+ 304/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLQueryInterruptedException.class
+ 305/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLSyntaxErrorException.class
+ 306/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLTimeoutException.class
+ 307/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLTransactionRollbackException.class
+ 308/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientConnectionException.class
+ 309/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientException.class
+ 310/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/integration/c3p0/MysqlConnectionTester.class
+ 311/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/integration/jboss/ExtendedMysqlExceptionSorter.class
+ 312/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/integration/jboss/MysqlValidConnectionChecker.class
+ 313/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/interceptors/ResultSetScannerInterceptor$1.class
+ 314/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/interceptors/ResultSetScannerInterceptor.class
+ 315/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/interceptors/ServerStatusDiffInterceptor.class
+ 316/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/interceptors/SessionAssociationInterceptor.class
+ 317/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/CallableStatementWrapper.class
+ 318/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/ConnectionWrapper.class
+ 319/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC42CallableStatementWrapper.class
+ 320/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC42PreparedStatementWrapper.class
+ 321/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC4CallableStatementWrapper.class
+ 322/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC4ConnectionWrapper.class
+ 323/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlPooledConnection.class
+ 324/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlXAConnection.class
+ 325/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC4PreparedStatementWrapper.class
+ 326/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC4StatementWrapper.class
+ 327/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC4SuspendableXAConnection.class
+ 328/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlConnectionPoolDataSource.class
+ 329/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlDataSource.class
+ 330/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlDataSourceFactory.class
+ 331/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlPooledConnection.class
+ 332/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlXAConnection.class
+ 333/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlXADataSource.class
+ 334/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlXAException.class
+ 335/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlXid.class
+ 336/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/PreparedStatementWrapper.class
+ 337/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/StatementWrapper.class
+ 338/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/SuspendableXAConnection.class
+ 339/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/WrapperBase$ConnectionErrorFiringInvocationHandler.class
+ 340/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/WrapperBase.class
+ 341/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManager.class
+ 342/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManagerMBean.class
+ 343/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jmx/ReplicationGroupManager.class
+ 344/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jmx/ReplicationGroupManagerMBean.class
+ 345/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/log/Jdk14Logger.class
+ 346/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/log/Log.class
+ 347/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/log/LogFactory.class
+ 348/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/log/LogUtils.class
+ 349/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/log/NullLogger.class
+ 350/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/log/Slf4JLogger.class
+ 351/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/log/StandardLogger.class
+ 352/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/profiler/LoggingProfilerEventHandler.class
+ 353/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/profiler/ProfilerEvent.class
+ 354/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/profiler/ProfilerEventHandler.class
+ 355/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/Base64Decoder$IntWrapper.class
+ 356/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/Base64Decoder.class
+ 357/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/BaseBugReport.class
+ 358/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/ErrorMappingsDocGenerator.class
+ 359/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/LRUCache.class
+ 360/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/PropertiesDocGenerator.class
+ 361/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/ReadAheadInputStream.class
+ 362/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/ResultSetUtil.class
+ 363/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/ServerController.class
+ 364/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/TimezoneDump.class
+ 365/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/VersionFSHierarchyMaker.class
+ 366/366: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/org/gjt/mm/mysql/Driver.class
+
+List of absent classes:
+  org/hibernate/service/jdbc/connections/spi/MultiTenantConnectionProvider
+  com/mchange/v2/c3p0/C3P0ProxyConnection
+  com/mchange/v2/c3p0/QueryConnectionTester
+  org/jboss/resource/adapter/jdbc/vendor/MySQLExceptionSorter
+  org/jboss/resource/adapter/jdbc/ValidConnectionChecker
+  org/slf4j/LoggerFactory
+  org/slf4j/Logger
+
+List of classes with absent superclass or superinterface:
+  com/mysql/fabric/hibernate/FabricMultiTenantConnectionProvider 
+	superclass org/hibernate/service/jdbc/connections/spi/MultiTenantConnectionProvider
+  com/mysql/jdbc/integration/c3p0/MysqlConnectionTester 
+	superclass com/mchange/v2/c3p0/QueryConnectionTester
+  com/mysql/jdbc/integration/jboss/ExtendedMysqlExceptionSorter 
+	superclass org/jboss/resource/adapter/jdbc/vendor/MySQLExceptionSorter
+  com/mysql/jdbc/integration/jboss/MysqlValidConnectionChecker 
+	superclass org/jboss/resource/adapter/jdbc/ValidConnectionChecker
+-------------------------------------------------------------------
+files: 366  errors: 0  warnings: 0  notices: 0
+
+------------------------  Codegen Stage  ---------------------------------------
+
+  0% done, 362/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/org/gjt/mm/mysql/Driver.class
+errors(0), warnings(0), notes(0); bytes(4523), time  0.03
+  0% done, 361/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/VersionFSHierarchyMaker.class
+errors(0), warnings(0), notes(0); bytes(16641), time  1.18
+  0% done, 360/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/TimezoneDump.class
+errors(0), warnings(0), notes(0); bytes(9332), time  0.07
+  0% done, 359/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/ServerController.class
+errors(0), warnings(0), notes(0); bytes(19780), time  0.21
+  1% done, 358/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/ResultSetUtil.class
+errors(0), warnings(0), notes(0); bytes(6751), time  0.06
+  1% done, 357/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/ReadAheadInputStream.class
+errors(0), warnings(0), notes(0); bytes(18394), time  0.19
+  1% done, 356/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/PropertiesDocGenerator.class
+errors(0), warnings(0), notes(0); bytes(52969), time  0.09
+  1% done, 355/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/LRUCache.class
+errors(0), warnings(0), notes(0); bytes(13177), time  0.01
+  2% done, 354/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/ErrorMappingsDocGenerator.class
+errors(0), warnings(0), notes(0); bytes(4306), time  0.04
+  2% done, 353/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/BaseBugReport.class
+errors(0), warnings(0), notes(0); bytes(10792), time  0.11
+  2% done, 352/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/Base64Decoder.class
+errors(0), warnings(0), notes(0); bytes(7362), time  0.09
+  3% done, 351/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/util/Base64Decoder$IntWrapper.class
+errors(0), warnings(0), notes(0); bytes(3807), time  0.00
+  3% done, 350/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/profiler/ProfilerEventHandler.class
+errors(0), warnings(0), notes(0); bytes(2646), time  0.00
+  3% done, 349/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/profiler/ProfilerEvent.class
+errors(0), warnings(0), notes(0); bytes(19911), time  0.21
+  3% done, 348/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/profiler/LoggingProfilerEventHandler.class
+errors(0), warnings(0), notes(0); bytes(6045), time  0.02
+  4% done, 347/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/log/StandardLogger.class
+errors(0), warnings(0), notes(0); bytes(20765), time  0.18
+  4% done, 346/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/log/Slf4JLogger.class
+errors(0), warnings(0), notes(0); bytes(16506), time  0.14
+  4% done, 345/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/log/NullLogger.class
+errors(0), warnings(0), notes(0); bytes(9638), time  0.05
+  4% done, 344/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/log/LogUtils.class
+errors(0), warnings(0), notes(0); bytes(12149), time  0.06
+  5% done, 343/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/log/LogFactory.class
+errors(0), warnings(0), notes(0); bytes(11584), time  0.07
+  5% done, 342/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/log/Log.class
+errors(0), warnings(0), notes(0); bytes(3462), time  0.00
+  5% done, 341/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/log/Jdk14Logger.class
+errors(0), warnings(0), notes(0); bytes(19207), time  0.16
+  6% done, 340/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jmx/ReplicationGroupManagerMBean.class
+errors(0), warnings(0), notes(0); bytes(3805), time  0.00
+  6% done, 339/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jmx/ReplicationGroupManager.class
+errors(0), warnings(0), notes(0); bytes(16949), time  0.19
+  6% done, 338/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManagerMBean.class
+errors(0), warnings(0), notes(0); bytes(4198), time  0.00
+  6% done, 337/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManager.class
+errors(0), warnings(0), notes(0); bytes(14181), time  0.16
+  7% done, 336/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/WrapperBase.class
+errors(0), warnings(0), notes(0); bytes(4456), time  0.04
+  7% done, 335/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/WrapperBase$ConnectionErrorFiringInvocationHandler.class
+errors(0), warnings(0), notes(0); bytes(9326), time  0.05
+  7% done, 334/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/SuspendableXAConnection.class
+errors(0), warnings(0), notes(0); bytes(23322), time  0.31
+  8% done, 333/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/StatementWrapper.class
+errors(0), warnings(0), notes(0); bytes(46987), time  0.90
+  8% done, 332/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/PreparedStatementWrapper.class
+errors(0), warnings(0), notes(0); bytes(57810), time  0.80
+  8% done, 331/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlXid.class
+errors(0), warnings(0), notes(0); bytes(7244), time  0.29
+  8% done, 330/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlXAException.class
+errors(0), warnings(0), notes(0); bytes(10405), time  0.03
+  9% done, 329/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlXADataSource.class
+errors(0), warnings(0), notes(0); bytes(58003), time  0.05
+  9% done, 328/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlXAConnection.class
+errors(0), warnings(0), notes(0); bytes(33621), time  0.39
+  9% done, 327/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlPooledConnection.class
+errors(0), warnings(0), notes(0); bytes(19722), time  0.19
+  9% done, 326/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlDataSourceFactory.class
+errors(0), warnings(0), notes(0); bytes(12021), time  0.07
+ 10% done, 325/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlDataSource.class
+errors(0), warnings(0), notes(0); bytes(72885), time  0.33
+ 10% done, 324/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/MysqlConnectionPoolDataSource.class
+errors(0), warnings(0), notes(0); bytes(57933), time  0.04
+ 10% done, 323/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC4SuspendableXAConnection.class
+errors(0), warnings(0), notes(0); bytes(12588), time  0.11
+ 11% done, 322/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC4StatementWrapper.class
+errors(0), warnings(0), notes(0); bytes(20464), time  0.12
+ 11% done, 321/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC4PreparedStatementWrapper.class
+errors(0), warnings(0), notes(0); bytes(46146), time  0.47
+ 11% done, 320/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlXAConnection.class
+errors(0), warnings(0), notes(0); bytes(12660), time  0.09
+ 11% done, 319/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlPooledConnection.class
+errors(0), warnings(0), notes(0); bytes(10860), time  0.10
+ 12% done, 318/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC4ConnectionWrapper.class
+errors(0), warnings(0), notes(0); bytes(92712), time  0.24
+ 12% done, 317/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC4CallableStatementWrapper.class
+errors(0), warnings(0), notes(0); bytes(89373), time  0.91
+ 12% done, 316/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC42PreparedStatementWrapper.class
+errors(0), warnings(0), notes(0); bytes(21823), time  0.04
+ 12% done, 315/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/JDBC42CallableStatementWrapper.class
+errors(0), warnings(0), notes(0); bytes(47676), time  0.16
+ 13% done, 314/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/ConnectionWrapper.class
+errors(0), warnings(0), notes(0); bytes(353874), time  4.29
+ 13% done, 313/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/jdbc2/optional/CallableStatementWrapper.class
+errors(0), warnings(0), notes(0); bytes(104424), time  1.27
+ 13% done, 312/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/interceptors/SessionAssociationInterceptor.class
+errors(0), warnings(0), notes(0); bytes(10452), time  0.06
+ 14% done, 311/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/interceptors/ServerStatusDiffInterceptor.class
+errors(0), warnings(0), notes(0); bytes(11533), time  0.10
+ 14% done, 310/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/interceptors/ResultSetScannerInterceptor.class
+errors(0), warnings(0), notes(0); bytes(10118), time  0.04
+ 14% done, 309/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/interceptors/ResultSetScannerInterceptor$1.class
+errors(0), warnings(0), notes(0); bytes(8109), time  0.03
+ 14% done, 308/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientException.class
+errors(0), warnings(0), notes(0); bytes(12155), time  0.01
+ 15% done, 307/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientConnectionException.class
+errors(0), warnings(0), notes(0); bytes(12870), time  0.01
+ 15% done, 306/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLTransactionRollbackException.class
+errors(0), warnings(0), notes(0); bytes(12970), time  0.02
+ 15% done, 305/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLTimeoutException.class
+errors(0), warnings(0), notes(0); bytes(12287), time  0.02
+ 16% done, 304/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLSyntaxErrorException.class
+errors(0), warnings(0), notes(0); bytes(12455), time  0.02
+ 16% done, 303/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLQueryInterruptedException.class
+errors(0), warnings(0), notes(0); bytes(11845), time  0.02
+ 16% done, 302/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientException.class
+errors(0), warnings(0), notes(0); bytes(12314), time  0.02
+ 16% done, 301/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientConnectionException.class
+errors(0), warnings(0), notes(0); bytes(13038), time  0.02
+ 17% done, 300/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLInvalidAuthorizationSpecException.class
+errors(0), warnings(0), notes(0); bytes(13144), time  0.01
+ 17% done, 299/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLIntegrityConstraintViolationException.class
+errors(0), warnings(0), notes(0); bytes(13356), time  0.01
+ 17% done, 298/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/MySQLDataException.class
+errors(0), warnings(0), notes(0); bytes(12084), time  0.02
+ 17% done, 297/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/jdbc4/CommunicationsException.class
+errors(0), warnings(0), notes(0); bytes(10518), time  0.05
+ 18% done, 296/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLTransientException.class
+errors(0), warnings(0), notes(0); bytes(12069), time  0.02
+ 18% done, 295/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLTransientConnectionException.class
+errors(0), warnings(0), notes(0); bytes(11959), time  0.01
+ 18% done, 294/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLTransactionRollbackException.class
+errors(0), warnings(0), notes(0); bytes(12059), time  0.01
+ 19% done, 293/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLTimeoutException.class
+errors(0), warnings(0), notes(0); bytes(11658), time  0.02
+ 19% done, 292/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLSyntaxErrorException.class
+errors(0), warnings(0), notes(0); bytes(11730), time  0.02
+ 19% done, 291/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLStatementCancelledException.class
+errors(0), warnings(0), notes(0); bytes(12009), time  0.02
+ 19% done, 290/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLQueryInterruptedException.class
+errors(0), warnings(0), notes(0); bytes(11890), time  0.02
+ 20% done, 289/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLNonTransientException.class
+errors(0), warnings(0), notes(0); bytes(12165), time  0.01
+ 20% done, 288/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLNonTransientConnectionException.class
+errors(0), warnings(0), notes(0); bytes(12082), time  0.01
+ 20% done, 287/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLInvalidAuthorizationSpecException.class
+errors(0), warnings(0), notes(0); bytes(12146), time  0.01
+ 20% done, 286/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLIntegrityConstraintViolationException.class
+errors(0), warnings(0), notes(0); bytes(12274), time  0.02
+ 21% done, 285/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/MySQLDataException.class
+errors(0), warnings(0), notes(0); bytes(11506), time  0.02
+ 21% done, 284/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/exceptions/DeadlockTimeoutRollbackMarker.class
+errors(0), warnings(0), notes(0); bytes(2159), time  0.00
+ 21% done, 283/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/authentication/Sha256PasswordPlugin.class
+errors(0), warnings(0), notes(0); bytes(20130), time  0.25
+ 22% done, 282/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/authentication/MysqlOldPasswordPlugin.class
+errors(0), warnings(0), notes(0); bytes(9191), time  0.07
+ 22% done, 281/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/authentication/MysqlNativePasswordPlugin.class
+errors(0), warnings(0), notes(0); bytes(11568), time  0.06
+ 22% done, 280/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/authentication/MysqlClearPasswordPlugin.class
+errors(0), warnings(0), notes(0); bytes(9719), time  0.05
+ 22% done, 279/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/WriterWatcher.class
+errors(0), warnings(0), notes(0); bytes(2193), time  0.01
+ 23% done, 278/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Wrapper.class
+errors(0), warnings(0), notes(0); bytes(2590), time  0.00
+ 23% done, 277/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/WatchableWriter.class
+errors(0), warnings(0), notes(0); bytes(10048), time  0.01
+ 23% done, 276/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/WatchableOutputStream.class
+errors(0), warnings(0), notes(0); bytes(7987), time  0.02
+ 24% done, 275/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/V1toV2StatementInterceptorAdapter.class
+errors(0), warnings(0), notes(0); bytes(7830), time  0.04
+ 24% done, 274/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Util.class
+errors(0), warnings(0), notes(0); bytes(56892), time  0.69
+ 24% done, 273/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Util$RandStructcture.class
+errors(0), warnings(0), notes(0); bytes(4113), time  0.00
+ 24% done, 272/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/UpdatableResultSet.class
+errors(0), warnings(0), notes(0); bytes(127704), time  3.12
+ 25% done, 271/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/TimeUtil.class
+errors(0), warnings(0), notes(0); bytes(37976), time  0.52
+ 25% done, 270/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StringUtils.class
+errors(0), warnings(0), notes(0); bytes(103724), time  1.85
+ 25% done, 269/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StringUtils$SearchMode.class
+errors(0), warnings(0), notes(0); bytes(8542), time  0.04
+ 25% done, 268/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StreamingNotifiable.class
+errors(0), warnings(0), notes(0); bytes(2206), time  0.00
+ 26% done, 267/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StatementInterceptorV2.class
+errors(0), warnings(0), notes(0); bytes(3618), time  0.00
+ 26% done, 266/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StatementInterceptor.class
+errors(0), warnings(0), notes(0); bytes(3321), time  0.01
+ 26% done, 265/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StatementImpl.class
+errors(0), warnings(0), notes(0); bytes(140262), time  4.38
+ 27% done, 264/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StatementImpl$CancelTask.class
+errors(0), warnings(0), notes(0); bytes(7959), time  0.04
+ 27% done, 263/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StatementImpl$CancelTask$1.class
+errors(0), warnings(0), notes(0); bytes(15633), time  0.20
+ 27% done, 262/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Statement.class
+errors(0), warnings(0), notes(0); bytes(4828), time  0.00
+ 27% done, 261/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StandardSocketFactory.class
+errors(0), warnings(0), notes(0); bytes(18741), time  0.16
+ 28% done, 260/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/StandardLoadBalanceExceptionChecker.class
+errors(0), warnings(0), notes(0); bytes(11967), time  0.13
+ 28% done, 259/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/SocksProxySocketFactory.class
+errors(0), warnings(0), notes(0); bytes(8761), time  0.03
+ 28% done, 258/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/SocketMetadata.class
+errors(0), warnings(0), notes(0); bytes(2466), time  0.00
+ 29% done, 257/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/SocketMetadata$Helper.class
+errors(0), warnings(0), notes(0); bytes(14509), time  0.19
+ 29% done, 256/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/SocketFactory.class
+errors(0), warnings(0), notes(0); bytes(2939), time  0.00
+ 29% done, 255/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/SingleByteCharsetConverter.class
+errors(0), warnings(0), notes(0); bytes(18162), time  0.18
+ 29% done, 254/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ServerPreparedStatement.class
+errors(0), warnings(0), notes(0); bytes(160750), time  5.41
+ 30% done, 253/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ServerPreparedStatement$BindValue.class
+errors(0), warnings(0), notes(0); bytes(10879), time  0.07
+ 30% done, 252/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ServerPreparedStatement$BatchedBindValues.class
+errors(0), warnings(0), notes(0); bytes(4575), time  0.01
+ 30% done, 251/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/SequentialBalanceStrategy.class
+errors(0), warnings(0), notes(0); bytes(10276), time  0.23
+ 30% done, 250/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Security.class
+errors(0), warnings(0), notes(0); bytes(14473), time  0.21
+ 31% done, 249/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/SQLError.class
+errors(0), warnings(0), notes(0); bytes(205294), time  0.86
+ 31% done, 248/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/RowDataStatic.class
+errors(0), warnings(0), notes(0); bytes(15918), time  0.20
+ 31% done, 247/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/RowDataDynamic.class
+errors(0), warnings(0), notes(0); bytes(22809), time  0.43
+ 32% done, 246/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/RowDataCursor.class
+errors(0), warnings(0), notes(0); bytes(18793), time  0.24
+ 32% done, 245/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/RowData.class
+errors(0), warnings(0), notes(0); bytes(4491), time  0.00
+ 32% done, 244/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ResultSetRow.class
+errors(0), warnings(0), notes(0); bytes(52486), time  1.47
+ 32% done, 243/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ResultSetMetaData.class
+errors(0), warnings(0), notes(0); bytes(27635), time  0.48
+ 33% done, 242/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ResultSetInternalMethods.class
+errors(0), warnings(0), notes(0); bytes(9134), time  0.00
+ 33% done, 241/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ResultSetImpl.class
+errors(0), warnings(0), notes(0); bytes(313382), time  7.10
+ 33% done, 240/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ReplicationMySQLConnection.class
+errors(0), warnings(0), notes(0); bytes(114515), time  0.39
+ 33% done, 239/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ReplicationDriver.class
+errors(0), warnings(0), notes(0); bytes(6288), time  0.02
+ 34% done, 238/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ReplicationConnectionProxy.class
+errors(0), warnings(0), notes(0); bytes(47159), time  0.70
+ 34% done, 237/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ReplicationConnectionGroupManager.class
+errors(0), warnings(0), notes(0); bytes(26044), time  0.32
+ 34% done, 236/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ReplicationConnectionGroup.class
+errors(0), warnings(0), notes(0); bytes(21305), time  0.23
+ 35% done, 235/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ReplicationConnection.class
+errors(0), warnings(0), notes(0); bytes(8364), time  0.00
+ 35% done, 234/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ReflectiveStatementInterceptorAdapter.class
+errors(0), warnings(0), notes(0); bytes(14003), time  0.09
+ 35% done, 233/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/RandomBalanceStrategy.class
+errors(0), warnings(0), notes(0); bytes(12934), time  0.12
+ 35% done, 232/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ProfilerEventHandlerFactory.class
+errors(0), warnings(0), notes(0); bytes(8063), time  0.07
+ 36% done, 231/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PreparedStatement.class
+errors(0), warnings(0), notes(0); bytes(237199), time  6.82
+ 36% done, 230/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PreparedStatement$ParseInfo.class
+errors(0), warnings(0), notes(0); bytes(27526), time  0.56
+ 36% done, 229/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PreparedStatement$EndPoint.class
+errors(0), warnings(0), notes(0); bytes(3893), time  0.00
+ 37% done, 228/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PreparedStatement$EmulatedPreparedStatementBindings.class
+errors(0), warnings(0), notes(0); bytes(28724), time  0.23
+ 37% done, 227/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PreparedStatement$BatchVisitor.class
+errors(0), warnings(0), notes(0); bytes(2626), time  0.00
+ 37% done, 226/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PreparedStatement$BatchParams.class
+errors(0), warnings(0), notes(0); bytes(6354), time  0.02
+ 37% done, 225/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PreparedStatement$AppendingBatchVisitor.class
+errors(0), warnings(0), notes(0); bytes(9593), time  0.05
+ 38% done, 224/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PingTarget.class
+errors(0), warnings(0), notes(0); bytes(2270), time  0.00
+ 38% done, 223/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PerVmServerConfigCacheFactory.class
+errors(0), warnings(0), notes(0); bytes(6457), time  0.01
+ 38% done, 222/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PerVmServerConfigCacheFactory$1.class
+errors(0), warnings(0), notes(0); bytes(10331), time  0.07
+ 38% done, 221/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PerConnectionLRUFactory.class
+errors(0), warnings(0), notes(0); bytes(5349), time  0.02
+ 39% done, 220/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PerConnectionLRUFactory$PerConnectionLRU.class
+errors(0), warnings(0), notes(0); bytes(12601), time  0.21
+ 39% done, 219/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ParameterBindings.class
+errors(0), warnings(0), notes(0); bytes(6770), time  0.00
+ 39% done, 218/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/PacketTooBigException.class
+errors(0), warnings(0), notes(0); bytes(11076), time  0.01
+ 40% done, 217/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/OutputStreamWatcher.class
+errors(0), warnings(0), notes(0); bytes(2259), time  0.01
+ 40% done, 216/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/OperationNotSupportedException.class
+errors(0), warnings(0), notes(0); bytes(9261), time  0.00
+ 40% done, 215/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NotUpdatable.class
+errors(0), warnings(0), notes(0); bytes(12189), time  0.03
+ 40% done, 214/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NotImplemented.class
+errors(0), warnings(0), notes(0); bytes(9035), time  0.01
+ 41% done, 213/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NonRegisteringReplicationDriver.class
+errors(0), warnings(0), notes(0); bytes(5462), time  0.00
+ 41% done, 212/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NonRegisteringDriver.class
+errors(0), warnings(0), notes(0); bytes(57311), time  0.93
+ 41% done, 211/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NonRegisteringDriver$ConnectionPhantomReference.class
+errors(0), warnings(0), notes(0); bytes(6738), time  0.05
+ 41% done, 210/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NoSubInterceptorWrapper.class
+errors(0), warnings(0), notes(0); bytes(8711), time  0.10
+ 42% done, 209/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NetworkResources.class
+errors(0), warnings(0), notes(0); bytes(6168), time  0.10
+ 42% done, 208/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NdbLoadBalanceExceptionChecker.class
+errors(0), warnings(0), notes(0); bytes(6081), time  0.05
+ 42% done, 207/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NamedPipeSocketFactory.class
+errors(0), warnings(0), notes(0); bytes(8974), time  0.04
+ 43% done, 206/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NamedPipeSocketFactory$RandomAccessFileOutputStream.class
+errors(0), warnings(0), notes(0); bytes(7398), time  0.02
+ 43% done, 205/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NamedPipeSocketFactory$RandomAccessFileInputStream.class
+errors(0), warnings(0), notes(0); bytes(8154), time  0.03
+ 43% done, 204/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/NamedPipeSocketFactory$NamedPipeSocket.class
+errors(0), warnings(0), notes(0); bytes(16027), time  0.04
+ 43% done, 203/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MysqlSavepoint.class
+errors(0), warnings(0), notes(0); bytes(9500), time  0.04
+ 44% done, 202/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MysqlParameterMetadata.class
+errors(0), warnings(0), notes(0); bytes(15891), time  0.12
+ 44% done, 201/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MysqlIO.class
+errors(0), warnings(0), notes(0); bytes(217232), time  6.71
+ 44% done, 200/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MysqlErrorNumbers.class
+errors(0), warnings(0), notes(0); bytes(197633), time  0.02
+ 45% done, 199/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MysqlDefs.class
+errors(0), warnings(0), notes(0); bytes(34030), time  0.42
+ 45% done, 198/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MysqlDataTruncation.class
+errors(0), warnings(0), notes(0); bytes(12498), time  0.02
+ 45% done, 197/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MysqlCharset.class
+errors(0), warnings(0), notes(0); bytes(13503), time  0.28
+ 45% done, 196/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MySQLConnection.class
+errors(0), warnings(0), notes(0); bytes(14589), time  0.00
+ 46% done, 195/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MultiHostMySQLConnection.class
+errors(0), warnings(0), notes(0); bytes(381920), time  4.95
+ 46% done, 194/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MultiHostConnectionProxy.class
+errors(0), warnings(0), notes(0); bytes(32190), time  0.38
+ 46% done, 193/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MultiHostConnectionProxy$JdbcInterfaceProxy.class
+errors(0), warnings(0), notes(0); bytes(5978), time  0.04
+ 46% done, 192/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/MiniAdmin.class
+errors(0), warnings(0), notes(0); bytes(7617), time  0.04
+ 47% done, 191/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Messages.class
+errors(0), warnings(0), notes(0); bytes(12018), time  0.05
+ 47% done, 190/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/LoadBalancedMySQLConnection.class
+errors(0), warnings(0), notes(0); bytes(101830), time  0.13
+ 47% done, 189/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/LoadBalancedConnectionProxy.class
+errors(0), warnings(0), notes(0); bytes(67323), time  1.51
+ 48% done, 188/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/LoadBalancedConnection.class
+errors(0), warnings(0), notes(0); bytes(7580), time  0.00
+ 48% done, 187/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/LoadBalancedAutoCommitInterceptor.class
+errors(0), warnings(0), notes(0); bytes(9542), time  0.08
+ 48% done, 186/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/LoadBalanceExceptionChecker.class
+errors(0), warnings(0), notes(0); bytes(2723), time  0.00
+ 48% done, 185/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/LicenseConfiguration.class
+errors(0), warnings(0), notes(0); bytes(4008), time  0.01
+ 49% done, 184/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4UpdatableResultSet.class
+errors(0), warnings(0), notes(0); bytes(70721), time  0.49
+ 49% done, 183/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4ServerPreparedStatement.class
+errors(0), warnings(0), notes(0); bytes(30992), time  0.10
+ 49% done, 182/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4ResultSet.class
+errors(0), warnings(0), notes(0); bytes(67904), time  0.40
+ 50% done, 181/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4ReplicationMySQLConnection.class
+errors(0), warnings(0), notes(0); bytes(123695), time  0.15
+ 50% done, 180/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4PreparedStatementHelper.class
+errors(0), warnings(0), notes(0); bytes(8550), time  0.04
+ 50% done, 179/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4PreparedStatement.class
+errors(0), warnings(0), notes(0); bytes(27768), time  0.03
+ 50% done, 178/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4NClob.class
+errors(0), warnings(0), notes(0); bytes(6163), time  0.01
+ 51% done, 177/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4MysqlSQLXML.class
+errors(0), warnings(0), notes(0); bytes(35457), time  0.51
+ 51% done, 176/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4MysqlSQLXML$SimpleSaxToReader.class
+errors(0), warnings(0), notes(0); bytes(20018), time  0.16
+ 51% done, 175/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4MySQLConnection.class
+errors(0), warnings(0), notes(0); bytes(8972), time  0.00
+ 51% done, 174/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4MultiHostMySQLConnection.class
+errors(0), warnings(0), notes(0); bytes(110385), time  0.20
+ 52% done, 173/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4LoadBalancedMySQLConnection.class
+errors(0), warnings(0), notes(0); bytes(122774), time  0.13
+ 52% done, 172/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4DatabaseMetaDataUsingInfoSchema.class
+errors(0), warnings(0), notes(0); bytes(33825), time  0.09
+ 52% done, 171/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4DatabaseMetaDataUsingInfoSchema$1.class
+errors(0), warnings(0), notes(0); bytes(7504), time  0.07
+ 53% done, 170/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4DatabaseMetaData.class
+errors(0), warnings(0), notes(0); bytes(31471), time  0.07
+ 53% done, 169/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4Connection.class
+errors(0), warnings(0), notes(0); bytes(113938), time  0.21
+ 53% done, 168/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4CommentClientInfoProvider.class
+errors(0), warnings(0), notes(0); bytes(13562), time  0.14
+ 53% done, 167/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4ClientInfoProviderSP.class
+errors(0), warnings(0), notes(0); bytes(17954), time  0.29
+ 54% done, 166/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4ClientInfoProvider.class
+errors(0), warnings(0), notes(0); bytes(3329), time  0.00
+ 54% done, 165/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC4CallableStatement.class
+errors(0), warnings(0), notes(0); bytes(56752), time  0.38
+ 54% done, 164/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC42UpdatableResultSet.class
+errors(0), warnings(0), notes(0); bytes(47785), time  0.22
+ 54% done, 163/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC42ServerPreparedStatement.class
+errors(0), warnings(0), notes(0); bytes(30989), time  0.15
+ 55% done, 162/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC42ResultSet.class
+errors(0), warnings(0), notes(0); bytes(43163), time  0.06
+ 55% done, 161/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC42PreparedStatement.class
+errors(0), warnings(0), notes(0); bytes(32188), time  0.14
+ 55% done, 160/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC42Helper.class
+errors(0), warnings(0), notes(0); bytes(10522), time  0.04
+ 56% done, 159/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/JDBC42CallableStatement.class
+errors(0), warnings(0), notes(0); bytes(53260), time  0.23
+ 56% done, 158/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/IterateBlock.class
+errors(0), warnings(0), notes(0); bytes(5739), time  0.04
+ 56% done, 157/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Field.class
+errors(0), warnings(0), notes(0); bytes(44099), time  0.89
+ 56% done, 156/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/FailoverConnectionProxy.class
+errors(0), warnings(0), notes(0); bytes(38614), time  0.63
+ 57% done, 155/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/FailoverConnectionProxy$FailoverJdbcInterfaceProxy.class
+errors(0), warnings(0), notes(0); bytes(5845), time  0.02
+ 57% done, 154/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Extension.class
+errors(0), warnings(0), notes(0); bytes(2539), time  0.00
+ 57% done, 153/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ExportControlled.class
+errors(0), warnings(0), notes(0); bytes(37718), time  0.49
+ 58% done, 152/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ExportControlled$StandardSSLSocketFactory.class
+errors(0), warnings(0), notes(0); bytes(8110), time  0.02
+ 58% done, 151/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ExportControlled$1.class
+errors(0), warnings(0), notes(0); bytes(5358), time  0.01
+ 58% done, 150/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ExceptionInterceptor.class
+errors(0), warnings(0), notes(0); bytes(2424), time  0.00
+ 58% done, 149/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/EscapeTokenizer.class
+errors(0), warnings(0), notes(0); bytes(10091), time  0.08
+ 59% done, 148/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/EscapeProcessorResult.class
+errors(0), warnings(0), notes(0); bytes(4007), time  0.00
+ 59% done, 147/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/EscapeProcessor.class
+errors(0), warnings(0), notes(0); bytes(39536), time  0.53
+ 59% done, 146/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Driver.class
+errors(0), warnings(0), notes(0); bytes(6059), time  0.02
+ 59% done, 145/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DocsConnectionPropsHelper.class
+errors(0), warnings(0), notes(0); bytes(52911), time  0.02
+ 60% done, 144/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaDataUsingInfoSchema.class
+errors(0), warnings(0), notes(0); bytes(91571), time  1.15
+ 60% done, 143/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaDataUsingInfoSchema$JDBC4FunctionConstant.class
+errors(0), warnings(0), notes(0); bytes(11232), time  0.04
+ 60% done, 142/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData.class
+errors(0), warnings(0), notes(0); bytes(515702), time  6.17
+ 61% done, 141/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$TypeDescriptor.class
+errors(0), warnings(0), notes(0); bytes(18090), time  0.19
+ 61% done, 140/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$TableType.class
+errors(0), warnings(0), notes(0); bytes(14357), time  0.08
+ 61% done, 139/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$TableMetaDataKey.class
+errors(0), warnings(0), notes(0); bytes(6844), time  0.04
+ 61% done, 138/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$SingleStringIterator.class
+errors(0), warnings(0), notes(0); bytes(5797), time  0.02
+ 62% done, 137/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$ResultSetIterator.class
+errors(0), warnings(0), notes(0); bytes(7052), time  0.03
+ 62% done, 136/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$ProcedureType.class
+errors(0), warnings(0), notes(0); bytes(7577), time  0.03
+ 62% done, 135/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$LocalAndReferencedColumns.class
+errors(0), warnings(0), notes(0); bytes(4571), time  0.01
+ 62% done, 134/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$IteratorWithCleanup.class
+errors(0), warnings(0), notes(0); bytes(3505), time  0.00
+ 63% done, 133/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$IndexMetaDataKey.class
+errors(0), warnings(0), notes(0); bytes(8147), time  0.04
+ 63% done, 132/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$ComparableWrapper.class
+errors(0), warnings(0), notes(0); bytes(9208), time  0.04
+ 63% done, 131/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$9.class
+errors(0), warnings(0), notes(0); bytes(20352), time  0.42
+ 64% done, 130/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$8.class
+errors(0), warnings(0), notes(0); bytes(11620), time  0.16
+ 64% done, 129/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$7.class
+errors(0), warnings(0), notes(0); bytes(12069), time  0.12
+ 64% done, 128/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$6.class
+errors(0), warnings(0), notes(0); bytes(13888), time  0.17
+ 64% done, 127/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$5.class
+errors(0), warnings(0), notes(0); bytes(11676), time  0.10
+ 65% done, 126/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$4.class
+errors(0), warnings(0), notes(0); bytes(11578), time  0.11
+ 65% done, 125/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$3.class
+errors(0), warnings(0), notes(0); bytes(16438), time  0.27
+ 65% done, 124/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$2.class
+errors(0), warnings(0), notes(0); bytes(24097), time  0.67
+ 66% done, 123/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$11.class
+errors(0), warnings(0), notes(0); bytes(5642), time  0.04
+ 66% done, 122/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$10.class
+errors(0), warnings(0), notes(0); bytes(18808), time  0.27
+ 66% done, 121/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/DatabaseMetaData$1.class
+errors(0), warnings(0), notes(0); bytes(15575), time  0.32
+ 66% done, 120/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Constants.class
+errors(0), warnings(0), notes(0); bytes(5193), time  0.01
+ 67% done, 119/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesTransform.class
+errors(0), warnings(0), notes(0); bytes(2398), time  0.00
+ 67% done, 118/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl.class
+errors(0), warnings(0), notes(0); bytes(394486), time  2.70
+ 67% done, 117/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$XmlMap.class
+errors(0), warnings(0), notes(0); bytes(4859), time  0.01
+ 67% done, 116/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$StringConnectionProperty.class
+errors(0), warnings(0), notes(0); bytes(11307), time  0.05
+ 68% done, 115/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$MemorySizeConnectionProperty.class
+errors(0), warnings(0), notes(0); bytes(11604), time  0.06
+ 68% done, 114/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$LongConnectionProperty.class
+errors(0), warnings(0), notes(0); bytes(16311), time  0.08
+ 68% done, 113/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$IntegerConnectionProperty.class
+errors(0), warnings(0), notes(0); bytes(18701), time  0.09
+ 69% done, 112/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$ConnectionProperty.class
+errors(0), warnings(0), notes(0); bytes(17727), time  0.12
+ 69% done, 111/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$BooleanConnectionProperty.class
+errors(0), warnings(0), notes(0); bytes(11239), time  0.03
+ 69% done, 110/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionPropertiesImpl$1.class
+errors(0), warnings(0), notes(0); bytes(51659), time  0.00
+ 69% done, 109/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionProperties.class
+errors(0), warnings(0), notes(0); bytes(35306), time  0.01
+ 70% done, 108/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionLifecycleInterceptor.class
+errors(0), warnings(0), notes(0); bytes(3583), time  0.00
+ 70% done, 107/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl.class
+errors(0), warnings(0), notes(0); bytes(358160), time  8.26
+ 70% done, 106/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$ExceptionInterceptorChain.class
+errors(0), warnings(0), notes(0); bytes(8648), time  0.07
+ 70% done, 105/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$CompoundCacheKey.class
+errors(0), warnings(0), notes(0); bytes(6498), time  0.03
+ 71% done, 104/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$9.class
+errors(0), warnings(0), notes(0); bytes(5645), time  0.01
+ 71% done, 103/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$8.class
+errors(0), warnings(0), notes(0); bytes(5768), time  0.02
+ 71% done, 102/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$7.class
+errors(0), warnings(0), notes(0); bytes(5998), time  0.02
+ 72% done, 101/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$6.class
+errors(0), warnings(0), notes(0); bytes(5921), time  0.02
+ 72% done, 100/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$5.class
+errors(0), warnings(0), notes(0); bytes(5668), time  0.01
+ 72% done, 99/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$4.class
+errors(0), warnings(0), notes(0); bytes(5937), time  0.03
+ 72% done, 98/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$3.class
+errors(0), warnings(0), notes(0); bytes(13882), time  0.03
+ 73% done, 97/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$2.class
+errors(0), warnings(0), notes(0); bytes(5666), time  0.01
+ 73% done, 96/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$12.class
+errors(0), warnings(0), notes(0); bytes(5415), time  0.02
+ 73% done, 95/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$11.class
+errors(0), warnings(0), notes(0); bytes(4939), time  0.01
+ 74% done, 94/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$10.class
+errors(0), warnings(0), notes(0); bytes(5664), time  0.02
+ 74% done, 93/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionImpl$1.class
+errors(0), warnings(0), notes(0); bytes(5634), time  0.01
+ 74% done, 92/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionGroupManager.class
+errors(0), warnings(0), notes(0); bytes(24935), time  0.34
+ 74% done, 91/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionGroup.class
+errors(0), warnings(0), notes(0); bytes(22868), time  0.33
+ 75% done, 90/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ConnectionFeatureNotAvailableException.class
+errors(0), warnings(0), notes(0); bytes(9603), time  0.01
+ 75% done, 89/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Connection.class
+errors(0), warnings(0), notes(0); bytes(10940), time  0.00
+ 75% done, 88/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CompressedInputStream.class
+errors(0), warnings(0), notes(0); bytes(18099), time  0.18
+ 75% done, 87/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CommunicationsException.class
+errors(0), warnings(0), notes(0); bytes(10131), time  0.02
+ 76% done, 86/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Collation.class
+errors(0), warnings(0), notes(0); bytes(6827), time  0.03
+ 76% done, 85/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Clob.class
+errors(0), warnings(0), notes(0); bytes(22248), time  0.18
+ 76% done, 84/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CharsetMapping.class
+errors(0), warnings(0), notes(0); bytes(173391), time  1.27
+ 77% done, 83/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CallableStatement.class
+errors(0), warnings(0), notes(0); bytes(179925), time  4.21
+ 77% done, 82/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CallableStatement$CallableStatementParamInfo.class
+errors(0), warnings(0), notes(0); bytes(26075), time  0.25
+ 77% done, 81/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CallableStatement$CallableStatementParam.class
+errors(0), warnings(0), notes(0); bytes(5928), time  0.01
+ 77% done, 80/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CachedResultSetMetaData.class
+errors(0), warnings(0), notes(0); bytes(5463), time  0.01
+ 78% done, 79/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CacheAdapterFactory.class
+errors(0), warnings(0), notes(0); bytes(2889), time  0.00
+ 78% done, 78/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/CacheAdapter.class
+errors(0), warnings(0), notes(0); bytes(2755), time  0.01
+ 78% done, 77/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/ByteArrayRow.class
+errors(0), warnings(0), notes(0); bytes(22075), time  0.24
+ 79% done, 76/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/BufferRow.class
+errors(0), warnings(0), notes(0); bytes(34848), time  0.82
+ 79% done, 75/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Buffer.class
+errors(0), warnings(0), notes(0); bytes(43127), time  0.60
+ 79% done, 74/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/BlobFromLocator.class
+errors(0), warnings(0), notes(0); bytes(32392), time  0.79
+ 79% done, 73/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/BlobFromLocator$LocatorInputStream.class
+errors(0), warnings(0), notes(0); bytes(13000), time  0.09
+ 80% done, 72/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/Blob.class
+errors(0), warnings(0), notes(0); bytes(22023), time  0.36
+ 80% done, 71/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/BestResponseTimeBalanceStrategy.class
+errors(0), warnings(0), notes(0); bytes(8863), time  0.13
+ 80% done, 70/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/BalanceStrategy.class
+errors(0), warnings(0), notes(0); bytes(3542), time  0.00
+ 80% done, 69/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/AuthenticationPlugin.class
+errors(0), warnings(0), notes(0); bytes(3499), time  0.00
+ 81% done, 68/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/AssertionFailedException.class
+errors(0), warnings(0), notes(0); bytes(9361), time  0.02
+ 81% done, 67/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/jdbc/AbandonedConnectionCleanupThread.class
+errors(0), warnings(0), notes(0); bytes(10433), time  0.15
+ 81% done, 66/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/exceptions/MySQLFabricException.class
+errors(0), warnings(0), notes(0); bytes(14800), time  0.08
+ 82% done, 65/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Value.class
+errors(0), warnings(0), notes(0); bytes(27055), time  0.34
+ 82% done, 64/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Struct.class
+errors(0), warnings(0), notes(0); bytes(7219), time  0.05
+ 82% done, 63/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/ResponseParser.class
+errors(0), warnings(0), notes(0); bytes(19671), time  0.28
+ 82% done, 62/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Params.class
+errors(0), warnings(0), notes(0); bytes(7207), time  0.05
+ 83% done, 61/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Param.class
+errors(0), warnings(0), notes(0); bytes(6108), time  0.02
+ 83% done, 60/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/MethodResponse.class
+errors(0), warnings(0), notes(0); bytes(6609), time  0.04
+ 83% done, 59/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/MethodCall.class
+errors(0), warnings(0), notes(0); bytes(6946), time  0.04
+ 83% done, 58/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Member.class
+errors(0), warnings(0), notes(0); bytes(7117), time  0.04
+ 84% done, 57/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Fault.class
+errors(0), warnings(0), notes(0); bytes(5533), time  0.01
+ 84% done, 56/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Data.class
+errors(0), warnings(0), notes(0); bytes(7163), time  0.05
+ 84% done, 55/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/base/Array.class
+errors(0), warnings(0), notes(0); bytes(6059), time  0.02
+ 85% done, 54/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/xmlrpc/Client.class
+errors(0), warnings(0), notes(0); bytes(12011), time  0.10
+ 85% done, 53/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/proto/xmlrpc/XmlRpcMethodCaller.class
+errors(0), warnings(0), notes(0); bytes(2927), time  0.00
+ 85% done, 52/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/proto/xmlrpc/XmlRpcClient.class
+errors(0), warnings(0), notes(0); bytes(45450), time  0.70
+ 85% done, 51/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/proto/xmlrpc/ResultSetParser.class
+errors(0), warnings(0), notes(0); bytes(8306), time  0.05
+ 86% done, 50/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/proto/xmlrpc/InternalXmlRpcMethodCaller.class
+errors(0), warnings(0), notes(0); bytes(17693), time  0.21
+ 86% done, 49/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/proto/xmlrpc/DigestAuthentication.class
+errors(0), warnings(0), notes(0); bytes(25367), time  0.23
+ 86% done, 48/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/proto/xmlrpc/AuthenticatedXmlRpcMethodCaller.class
+errors(0), warnings(0), notes(0); bytes(7637), time  0.04
+ 87% done, 47/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/JDBC4FabricMySQLConnectionProxy.class
+errors(0), warnings(0), notes(0); bytes(146077), time  0.19
+ 87% done, 46/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/JDBC4FabricMySQLConnection.class
+errors(0), warnings(0), notes(0); bytes(8365), time  0.00
+ 87% done, 45/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/FabricMySQLDriver.class
+errors(0), warnings(0), notes(0); bytes(14245), time  0.07
+ 87% done, 44/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/FabricMySQLDataSource.class
+errors(0), warnings(0), notes(0); bytes(74690), time  0.16
+ 88% done, 43/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/FabricMySQLConnectionProxy.class
+errors(0), warnings(0), notes(0); bytes(430349), time  6.55
+ 88% done, 42/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/FabricMySQLConnectionProperties.class
+errors(0), warnings(0), notes(0); bytes(3636), time  0.00
+ 88% done, 41/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/FabricMySQLConnection.class
+errors(0), warnings(0), notes(0); bytes(8196), time  0.00
+ 88% done, 40/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/jdbc/ErrorReportingExceptionInterceptor.class
+errors(0), warnings(0), notes(0); bytes(8444), time  0.05
+ 89% done, 39/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ShardingType.class
+errors(0), warnings(0), notes(0); bytes(7343), time  0.04
+ 89% done, 38/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ShardTable.class
+errors(0), warnings(0), notes(0); bytes(4121), time  0.01
+ 89% done, 37/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ShardMappingFactory.class
+errors(0), warnings(0), notes(0); bytes(6051), time  0.01
+ 90% done, 36/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ShardMappingFactory$1.class
+errors(0), warnings(0), notes(0); bytes(4933), time  0.02
+ 90% done, 35/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ShardMapping.class
+errors(0), warnings(0), notes(0); bytes(6044), time  0.03
+ 90% done, 34/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ShardIndex.class
+errors(0), warnings(0), notes(0); bytes(4279), time  0.02
+ 90% done, 33/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ServerRole.class
+errors(0), warnings(0), notes(0); bytes(8580), time  0.05
+ 91% done, 32/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ServerMode.class
+errors(0), warnings(0), notes(0); bytes(8349), time  0.04
+ 91% done, 31/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/ServerGroup.class
+errors(0), warnings(0), notes(0); bytes(7222), time  0.07
+ 91% done, 30/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/Server.class
+errors(0), warnings(0), notes(0); bytes(14974), time  0.14
+ 91% done, 29/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/Response.class
+errors(0), warnings(0), notes(0); bytes(9187), time  0.05
+ 92% done, 28/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/RangeShardMapping.class
+errors(0), warnings(0), notes(0); bytes(8141), time  0.03
+ 92% done, 27/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/RangeShardMapping$RangeShardIndexSorter.class
+errors(0), warnings(0), notes(0); bytes(10434), time  0.03
+ 92% done, 26/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/HashShardMapping.class
+errors(0), warnings(0), notes(0); bytes(12028), time  0.07
+ 93% done, 25/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/HashShardMapping$ReverseShardIndexSorter.class
+errors(0), warnings(0), notes(0); bytes(9803), time  0.03
+ 93% done, 24/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/FabricStateResponse.class
+errors(0), warnings(0), notes(0); bytes(5913), time  0.01
+ 93% done, 23/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/FabricConnection.class
+errors(0), warnings(0), notes(0); bytes(14819), time  0.13
+ 93% done, 22/362 to go: MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar:/com/mysql/fabric/FabricCommunicationException.class
+errors(0), warnings(0), notes(0); bytes(9154), time  0.01
+ 94% done, 21/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/networking/WritableGUI.class
+errors(0), warnings(0), notes(0); bytes(2058), time  0.00
+ 94% done, 20/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/networking/MessageTransmitter.class
+errors(0), warnings(0), notes(0); bytes(10612), time  0.02
+ 94% done, 19/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/networking/MessageListner.class
+errors(0), warnings(0), notes(0); bytes(12839), time  0.07
+ 95% done, 18/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/gui/MainScreen.class
+errors(0), warnings(0), notes(0); bytes(112697), time  0.28
+ 95% done, 17/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/gui/MainScreen$5.class
+errors(0), warnings(0), notes(0); bytes(4359), time  0.01
+ 95% done, 16/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/gui/MainScreen$4.class
+errors(0), warnings(0), notes(0); bytes(4365), time  0.01
+ 95% done, 15/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/gui/MainScreen$3.class
+errors(0), warnings(0), notes(0); bytes(4365), time  0.00
+ 96% done, 14/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/gui/MainScreen$2.class
+errors(0), warnings(0), notes(0); bytes(4768), time  0.01
+ 96% done, 13/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/gui/MainScreen$1.class
+errors(0), warnings(0), notes(0); bytes(4365), time  0.01
+ 96% done, 12/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignUp.class
+errors(0), warnings(0), notes(0); bytes(107548), time  0.25
+ 96% done, 11/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignUp$3.class
+errors(0), warnings(0), notes(0); bytes(4215), time  0.01
+ 97% done, 10/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignUp$2.class
+errors(0), warnings(0), notes(0); bytes(4221), time  0.01
+ 97% done, 9/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignUp$1.class
+errors(0), warnings(0), notes(0); bytes(4221), time  0.01
+ 97% done, 8/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignIn.class
+errors(0), warnings(0), notes(0); bytes(110125), time  0.24
+ 98% done, 7/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignIn$5.class
+errors(0), warnings(0), notes(0); bytes(4215), time  0.01
+ 98% done, 6/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignIn$4.class
+errors(0), warnings(0), notes(0); bytes(4221), time  0.01
+ 98% done, 5/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignIn$3.class
+errors(0), warnings(0), notes(0); bytes(4221), time  0.01
+ 98% done, 4/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignIn$2.class
+errors(0), warnings(0), notes(0); bytes(4221), time  0.00
+ 99% done, 3/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/SignIn$1.class
+errors(0), warnings(0), notes(0); bytes(4221), time  0.01
+ 99% done, 2/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/MySqlConnect.class
+errors(0), warnings(0), notes(0); bytes(5911), time  0.02
+ 99% done, 1/362 to go: MyChatAppp\dist\MyChatAppp.jar:/mychatappp/MyChatAppp.class
+errors(0), warnings(0), notes(0); bytes(3774), time  0.01
+Processing startup profile...
+New "D:/Zin/Java Project/Me Too_jetpdb/nums.clnums" is generated
+Preparing resources for packing ...
+Processing MyChatAppp/dist/MyChatAppp.jar ...
+Processing MyChatAppp/dist/lib/mysql-connector-java-5.1.38-bin.jar ...
+Resources were successfully prepared for packing.
+-------------------------------------------------------------------
+files: 362  errors: 0  warnings: 0  notices: 0
+
+5 methods were compiled with a lower optimization level
+due to their very large sizes. These methods' names are logged in Me Too.vaz
+with the "LONGLONGTIME:" prefix.
+
+For more details, see JET User's Guide (Chapter "Application considerations",
+Section "Baseline compilation").
+
+
+XDS Link Version 2.24.17 Copyright (c) Excelsior 1995-2015.
+No errors, no warnings
+
+Link time 0:00.72
+
+Total compilation time 2:06.06
+Startup Accelerator Helper Version 1.2 Copyright (c) Excelsior 2010-2015.
+
+Running application:
+  "D:\Zin\Java Project\Me Too.exe"
+
+
+Application terminated with exit code 0
+Profile successfully hard-wired into "D:\Zin\Java Project\Me Too.exe"
+

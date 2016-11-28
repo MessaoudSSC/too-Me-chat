@@ -1,0 +1,11 @@
+1
+"."
+1
+  DIR "MyChatAppp" "MyChatAppp" HIDDEN
+  1
+    DIR "dist" "MyChatAppp\dist" HIDDEN
+    2
+      DIR "lib" "MyChatAppp\dist\lib" HIDDEN
+      1
+        FILE "mysql-connector-java-5.1.38-bin.jar" "D:\Zin\Java Project\Me Too_jetpdb\tmpres\mysql-connector-java-5.1.38-bin__1.jar" HIDDEN
+      FILE "MyChatAppp.jar" "D:\Zin\Java Project\Me Too_jetpdb\tmpres\MyChatAppp__0.jar" HIDDEN

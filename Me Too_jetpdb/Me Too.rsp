@@ -1,0 +1,38 @@
+
+-x64
+-PIC
+-jetcomponent=11.00
+-jetedition=Evaluation
+-vcode=8040
+-sys=C
+-nosmart
+-zimer=0
+-stack=900000
+-LargeAddressAware
+-config=VMProperty:-Djet.gc.heaplimit:0 -Djet.stack.trace
+-config=ClassPath:*{exe.dir}\MyChatAppp\dist\MyChatAppp.jar;*{exe.dir}\MyChatAppp\dist\lib\mysql-connector-java-5.1.38-bin.jar
+-config=JETProfile:8040
+-config=JETProfileName:1.8.0_40
+-config=RuntimeKind:DESKTOP
+-EmbeddedFileSys=D:/Zin/Java Project/Me Too_jetpdb/Me Too.efs
+-config=MainClass:mychatappp/SignIn
+-config=VersionInfo:jet-1100-release (eval, en)
+-config=CompatibilityString:Java SE version: 1.8.0_40; JET update level: 0; CPU architecture: amd64
+-name=Me Too.exe
+D:\Zin\Java Project\Me Too_jetpdb\version.res
+
+-entry=ExeEntryPoint
+
+-LinkFileAsRData=LINK_SplashPicture:C:\jet11.0-eval-amd64\lib\x86\dummysplash.lib
+C:\jet11.0-eval-amd64\lib\x86\startup-exe-normal.zip
+-GenExceptionInfo=JR_SystemExceptionHandler
+-config=PackagingOptions:component_microversions=BC-0
+-ReadLinkInfo=D:\Zin\Java Project\Me Too_jetpdb\reorder.li
+D:\Zin\Java Project\Me Too_jetpdb\obj.zip
+-Config=RTComponent:XKRN11008040.dll
+C:\jet11.0-eval-amd64\lib\x86\startup-rtlink.zip
+C:\jet11.0-eval-amd64\lib\x86\import32.lib
+C:\jet11.0-eval-amd64\lib\x86\app.res
+-StrictLinkToDLL
+
+
